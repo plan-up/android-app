@@ -27,9 +27,4 @@ public class FriendInvite {
     public boolean isRegistered() {
         return registered;
     }
-
-    public void setRegistered(boolean registered) {
-        this.registered = registered;
-    }
-
 }
